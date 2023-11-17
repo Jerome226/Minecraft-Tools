@@ -1,0 +1,23 @@
+set dir=C:\Users\comma\Documents\GitHub-Projects\Minecraft-Tools\Textures\TerraFirmaCraft\wood\sprite_conversion 
+cd %dir%
+
+rename "sprite_00.png" "acacia.png"
+rename "sprite_01.png" "ash.png"
+rename "sprite_02.png" "aspen.png"
+rename "sprite_03.png" "birch.png"
+rename "sprite_04.png" "blackwood.png"
+rename "sprite_05.png" "chestnut.png"
+rename "sprite_06.png" "douglas_fir.png"
+rename "sprite_07.png" "hickory.png"
+rename "sprite_08.png" "kapok.png"
+rename "sprite_09.png" "mangrove.png"
+rename "sprite_10.png" "maple.png"
+rename "sprite_11.png" "oak.png"
+rename "sprite_12.png" "palm.png"
+rename "sprite_13.png" "pine.png"
+rename "sprite_14.png" "rosewood.png"
+rename "sprite_15.png" "sequoia.png"
+rename "sprite_16.png" "spruce.png"
+rename "sprite_17.png" "sycamore.png"
+rename "sprite_18.png" "white_cedar.png"
+rename "sprite_19.png" "willow.png"
